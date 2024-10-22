@@ -36,7 +36,8 @@ These recommendations would enhance customer adoption and create new revenue str
 
 ## Sources
 - AI Magazine. (2023). *How an AI startup closed $6.6bn in funding.* Retrieved from https://aimagazine.com  
-- PureAI. (2024). *OpenAI-Microsoft partnership enters phase 3.* Retrieved from https://pureai.com  
+- PureAI. (2024). *OpenAI-Microsoft partnership enters phase 3.* Retrieved from https://pureai.com
+- OpenAI. (2023). *ChatGPT (GPT-3.5 model).* Retrieved from https://openai.com/chatgpt  
 
 > "ChatGPT usage has doubled within a year, illustrating the platform's rapid adoption" (AI Magazine, 2023).
 """
